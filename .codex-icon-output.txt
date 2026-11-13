@@ -1,0 +1,1 @@
+Saved `icon_1024.png`, but the native tool produced 1254×1254 despite explicit size requests. Left it unresized as instructed; the 1024×1024 requirement remains unmet.
